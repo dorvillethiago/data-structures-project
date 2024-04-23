@@ -1,0 +1,38 @@
+[
+    {
+        "uuid": "5e3a3d7b-4f9c-4e10-bc14-afee87a9a4f4",
+        "name": "Laptop",
+        "price": 999.99,
+        "amount": 1
+    },
+    {
+        "uuid": "f688b3f4-4ef1-4ae9-9e12-01388cf0d36d",
+        "name": "Smartphone",
+        "price": 599.99,
+        "amount": 1
+    },
+    {
+        "uuid": "29979d62-ef41-4a2c-8a57-5f1fc76c736b",
+        "name": "Headphones",
+        "price": 149.99,
+        "amount": 1
+    },
+    {
+        "uuid": "5a9718f3-606d-4e6c-9a76-c9a5ed5fcbb3",
+        "name": "Mouse",
+        "price": 29.99,
+        "amount": 1
+    },
+    {
+        "uuid": "74eb9142-1440-4c19-a5c7-5b3cf113e7a3",
+        "name": "Keyboard",
+        "price": 49.99,
+        "amount": 1
+    },
+    {
+        "uuid": "198ba688-f2c7-42d7-bbbd-31ab3003d2b0",
+        "name": "Monitor",
+        "price": 299.99,
+        "amount": 1
+    }
+]
